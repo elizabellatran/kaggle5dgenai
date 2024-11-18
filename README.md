@@ -43,8 +43,8 @@ Complete Unit 3: “Generative AI Agents”, which is: <br>
 - [Optional] Listen to the summary podcast episode (https://youtu.be/H4gZd4BCrDQ) for this unit (created by NotebookLM).
 - Read the “Generative AI Agents” whitepaper (https://www.kaggle.com/whitepaper-agents).
  Complete these code labs on Kaggle:<br>
--Talk to a database with function calling - https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api
--Build an agentic ordering system in LangGraph - https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/
+- Talk to a database with function calling - https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api
+- Build an agentic ordering system in LangGraph - https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/
 
 What You’ll Learn<br>
 
@@ -64,11 +64,12 @@ Additionally, we’ve added 2 new channels on Discord to enhance discussion:
 
 # Day 4 
 Complete Unit 4: “Domain-Specific LLMs”, which is:
-➡️  [Optional] Listen to the summary podcast episode (https://youtu.be/b1a4ZOQ8XdI) for this unit (created by NotebookLM).
-➡️  Read the “Solving Domain-Specific Problems Using LLMs” whitepaper - https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms 
-➡️  Complete these code labs on Kaggle:
-[Optional] Use Google Search data in generation. (Note: Grounding with Google Search has been released as a limited launch and is not available in all locations. The EEA, UK, and CH regions will be supported at a later date) - https://www.kaggle.com/code/markishere/day-4-google-search-grounding
-Tune a Gemini model for a custom task - https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model
+- ➡️  [Optional] Listen to the summary podcast episode (https://youtu.be/b1a4ZOQ8XdI) for this unit (created by NotebookLM).
+- ➡️  Read the “Solving Domain-Specific Problems Using LLMs” whitepaper - https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms 
+- ➡️  Complete these code labs on Kaggle:
+[Optional] Use Google Search data in generation. (Note: Grounding with Google Search has been released as a limited launch and is not available in all locations. The EEA, UK, and CH regions will be supported at a later date)
+- - https://www.kaggle.com/code/markishere/day-4-google-search-grounding
+- Tune a Gemini model for a custom task - https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model
 
 💡What You’ll Learn
 
@@ -79,9 +80,9 @@ In the code labs you will learn how to add real world data to a model beyond its
 # Day 5 
 
 Complete Unit 5: “MLOps for Generative AI”, which is:
-➡️ [Optional] Listen to the summary podcast episode (https://youtu.be/k9S6IhiUUj4) for this unit (created by NotebookLM, https://notebooklm.google/).
-➡️ Read the “MLOps for Generative AI” whitepaper - https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops
-➡️ No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2e-gen-ai-app-starter-pack (https://goo.gle/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
+- ➡️ [Optional] Listen to the summary podcast episode (https://youtu.be/k9S6IhiUUj4) for this unit (created by NotebookLM, https://notebooklm.google/).
+- ➡️ Read the “MLOps for Generative AI” whitepaper - https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops
+- ➡️ No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2e-gen-ai-app-starter-pack (https://goo.gle/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
 
 💡What You’ll Learn
 
