@@ -21,18 +21,17 @@ The code lab will walk you through getting started with the Gemini API and cover
 # Day 2 
 
 Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
- [Optional] Listen to the summary podcast episode (https://youtube.com/watch?v=1CC39K76Nqs) for this unit (created by NotebookLM, https://notebooklm.google.com/).
- Read the “Embeddings and Vector Stores/Databases” whitepaper (https://kaggle.com/whitepaper-embeddings-and-vector-stores).
- Complete these code labs on Kaggle:
-Build a RAG question-answering system over custom documents - https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag
-Explore text similarity with embeddings - https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores
-Build a neural classification network with Keras using embeddings - https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras
+- [Optional] Listen to the summary podcast episode (https://youtube.com/watch?v=1CC39K76Nqs) for this unit (created by NotebookLM, https://notebooklm.google.com/).
+- Read the “Embeddings and Vector Stores/Databases” whitepaper (https://kaggle.com/whitepaper-embeddings-and-vector-stores).
+- Complete these code labs on Kaggle:
+- Build a RAG question-answering system over custom documents - https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag
+- Explore text similarity with embeddings - https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores
+- Build a neural classification network with Keras using embeddings - https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras
 
-What You’ll Learn
-
+What You’ll Learn <br>
 Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data. 
 
- Reminders and Announcements
+ Reminders and Announcements <br>
 -Here is the recording (https://www.youtube.com/watch?v=kpRyiJUUFxY) from this morning’s livestream. We apologize for the live technical issues today! Fortunately our recording did not have the same errors.
 -The 2nd livestream is tomorrow with Paige Bailey (https://x.com/DynamicWebPaige) and special guests: Omid Fatemieh, Jinhyuk Lee, Alan Li, Iftekhar Naim, Anant Nawalgaria, Yan Qiao, and Xiaoqi Ren.
 -Unfortunately, to ensure a fix to our livestream issues, we need to push back our broadcast time. We'll send another email with updated livestream info soon.
@@ -40,14 +39,14 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 
 # Day #3 Assignments
 
-Complete Unit 3: “Generative AI Agents”, which is:
- [Optional] Listen to the summary podcast episode (https://youtu.be/H4gZd4BCrDQ) for this unit (created by NotebookLM).
- Read the “Generative AI Agents” whitepaper (https://www.kaggle.com/whitepaper-agents).
- Complete these code labs on Kaggle:
-Talk to a database with function calling - https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api
-Build an agentic ordering system in LangGraph - https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/
+Complete Unit 3: “Generative AI Agents”, which is: <br>
+- [Optional] Listen to the summary podcast episode (https://youtu.be/H4gZd4BCrDQ) for this unit (created by NotebookLM).
+- Read the “Generative AI Agents” whitepaper (https://www.kaggle.com/whitepaper-agents).
+ Complete these code labs on Kaggle:<br>
+-Talk to a database with function calling - https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api
+-Build an agentic ordering system in LangGraph - https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/
 
-What You’ll Learn
+What You’ll Learn<br>
 
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
